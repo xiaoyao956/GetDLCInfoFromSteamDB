@@ -50,6 +50,6 @@
     "postcss-prefix-selector": "^1.14.0",
     "typescript": "^4.5.4",
     "vite": "^2.7.10",
-    "xo": "^0.47.0"
+    "xo": "^0.48.0"
   }
 }
